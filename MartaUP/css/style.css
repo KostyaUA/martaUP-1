@@ -126,3 +126,33 @@ a{
     display: flex;
     justify-content: space-between;
 }
+.spicealised {
+    padding: 55px 0 93px;
+    background-image: url(../images/special-bg.svg);
+    background-position: left bottom;
+    background-repeat: no-repeat; 
+    color: #202020;   
+    text-align: center;
+}
+
+.spicealised__title {
+}
+.title {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+}
+.spicealised__items {
+    display: flex;
+    justify-content: space-between;
+    max-width: 980px;
+}
+.spicealised__item {
+}
+.spicealised__item-img {
+}
+.specialised__item-title {
+}
+.specialised__item-text {
+}
